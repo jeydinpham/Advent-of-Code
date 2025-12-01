@@ -11,3 +11,14 @@ I used Javascript to solve these solutions because I knew it best at the time.
 | 15 | 16 | 17 | 18 | 19 | 20 | 21 |
 | 22 | 23 | 24 | 25 | 26 | 27 | 28 |
 | 29 | 30 | 31 |   |   |   |   |
+
+## December 2025
+I'm switching to Python this year because I really want to get familiar with it so I can use them in technical interviews
+
+| S | M | T | W | T | F | S |
+|---|---|---|---|---|---|---|
+| [1](./2025/Day1) | 2 | 3 | 4 | 5 | 6 | 7 |
+| 8 | 9 | 10 | 11 | 12 | 13 | 14 |
+| 15 | 16 | 17 | 18 | 19 | 20 | 21 |
+| 22 | 23 | 24 | 25 | 26 | 27 | 28 |
+| 29 | 30 | 31 |   |   |   |   |
